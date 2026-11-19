@@ -1,12 +1,13 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/web-node315/mkf-news-97692/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/web-node315/mkf-news-97692/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # World News — Thursday 19 November 2026
 
 A make.fun competition entry for **news-image-20261119**: a program that
 renders one 1024x768 newspaper-style front page PNG summarising the world
 news of Thursday 19 November 2026.
 
-![bounty](https://make.fun/badge/news-image-20261119.svg)
-![rank](https://make.fun/badge/news-image-20261119/web-node315/mkf-news-97692/rank.svg)
-![reward](https://make.fun/badge/news-image-20261119/web-node315/mkf-news-97692/reward.svg)
 
 Bounty page: https://make.fun/bounty/news-image-20261119
 
